@@ -1,2 +1,2 @@
 # sugarcnc
-A DIY CNC to cur lettering from fondant sheets.
+A DIY CNC to cut lettering from fondant sheets.
